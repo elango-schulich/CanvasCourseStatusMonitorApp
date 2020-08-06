@@ -1,0 +1,2 @@
+# CanvasCourseStatusMonitorApp
+Cleaner version
